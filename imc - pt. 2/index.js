@@ -16,13 +16,6 @@ function calcularIMC(peso, altura) {
     }
 }
 
-//função - exibir dados
-function exibir(nome, imc) {
-    var aluno = { nome: nome, imc: imc }
-    console.log(aluno)
-}
-
-
 //objetos - alunos
 var aluno0 = {
     nome: "Larissa",
